@@ -1,2 +1,2 @@
 # data-structures-algorithms
-Data Structures and Algorithms in JAVA
+These implementations are for learning purposes.
